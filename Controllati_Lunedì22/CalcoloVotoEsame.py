@@ -1,4 +1,4 @@
-#Calcola il risultato di un esame 
+#Calcola il risultato di un esame. 
 #Gli input sono due: il voto ottenuto nella prova scritta che dev'essere 
 # compreso nell'intervallo [-8 e 8] e il voto della prova pratica in [0,24]
 
