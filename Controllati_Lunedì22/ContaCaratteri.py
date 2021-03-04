@@ -1,3 +1,5 @@
+#Funzione che conta il numero di caratteri in una stringa
+
 def contaCaratteri ( ):                                     #definisco la funzione
     stringa = input("Inserisci una stringa: \n")            #chiedo in input una stringa
     
