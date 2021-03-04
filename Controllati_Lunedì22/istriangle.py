@@ -10,4 +10,4 @@ def isTriangle (a, b, c):                           #Definisco la funzione che r
     else:                                           #se non possono essere lati di un triangolo
         print("No!")
 
-isTriangle(2,3,1)                                   #chiamata 
+isTriangle(2,3,1)                                   #chiamata
